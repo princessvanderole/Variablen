@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 namespace My_Awesome_Programm
 {
     class Programm
@@ -15,7 +15,8 @@ namespace My_Awesome_Programm
             //eingabe zb. name ermöglichen
             Console.ReadLine();
             //print ausgabe nach eingabe
-            Console.WriteLine("My name is Tom Riddle.\nI want to suck out your soul! ");
+            Console.WriteLine("My name is Tom Riddle.\n
+            I want to suck out your soul! ");
             Console.WriteLine("What is your favourite color?");
             //erneute eingabe
             Console.ReadLine();
@@ -53,3 +54,4 @@ namespace My_Awesome_Programm
         }
     }
 }
+*/
